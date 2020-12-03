@@ -1,0 +1,1 @@
+python translatevideo.py -region us-east-1 -inbucket awscloudproject2020/ -infile AlphabetAerobics.mp4 -outbucket awscloudproject2020/ -outfilename subtitledVideo -outfiletype mp4 -outlang es
